@@ -1,0 +1,7 @@
+# StampVault: Africa (part 2)
+
+**This is part of the stamp data used by [StampVault](https://github.com/StampVault/StampVault.git).**
+
+This repository contains part 2 of 2 of the data for Africa. To use this data with StampVault, clone this repository into the `stamps/data` subdirectory of StampVault.
+
+See the documentation of [StampVault](https://github.com/StampVault/StampVault.git) for more information.
